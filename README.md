@@ -10,5 +10,5 @@ Features:
 - Clean Bootstrap UI with confetti 
 - Supports .pdf and .docx uploads
 
-🔧 Built with Flask, PyPDF2, and python-docx
+Built with Flask, PyPDF2, and python-docx
 
